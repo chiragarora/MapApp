@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="btn_click_txt">Search</string>
+    <string name="txt_restaurant">NearBy Restaurants</string>
+    <string name="txt_hospitals">NearBy Hospitals</string>
+    <string name="search_location">Please enter location</string>
+    <string name="location_notfound">Unable to find your location</string>
+    <string name="google_api_key">AIzaSyAbOHOdqBjDd2YgQwtGS2bsogl4wt08lQc</string>
+    <string name="google_api_key_place">AIzaSyDIxgiIcFjYgw6mrfoNfjOvAaRLts62W7E</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
